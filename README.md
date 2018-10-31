@@ -153,7 +153,7 @@ will bring up the numeric pad on mobile devices, whereas the type `text` will
 bring up the alphabet keypad. Support varies from device to device, though.
 
 Again, the `for` attribute value when matching an `id` attribute value will
-link them so that clicking on a label will select the cursor into its related
+link them so that clicking on a label will select  into its related
 input.
 
 As discussed in the previous lesson, the `name` attribute is important as it
